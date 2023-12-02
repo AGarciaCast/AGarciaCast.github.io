@@ -50,10 +50,10 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: experience
-    id: experience
+  - block: Timeline
+    id: timeline
     content:
-      title: Experience
+      title: Timeline
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006

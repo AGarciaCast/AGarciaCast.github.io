@@ -63,7 +63,7 @@ social:
     link: https://github.com/AGarciaCast
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/alejandro-garcía-castellanos-30a37b14b
+    link: https://www.linkedin.com/in/alejandro-garcía-castellanos-30a37b14b 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
