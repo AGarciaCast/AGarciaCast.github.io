@@ -21,7 +21,7 @@ role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: KTH
+  - name: RPL at KTH
     url: https://www.kth.se/is/rpl
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,12 +55,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/algarciacast
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
     link: https://github.com/AGarciaCast
@@ -73,6 +70,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
