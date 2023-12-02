@@ -50,7 +50,7 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: Timeline
+  - block: experience
     id: timeline
     content:
       title: Timeline
