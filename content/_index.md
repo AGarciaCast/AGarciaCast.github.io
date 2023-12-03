@@ -11,6 +11,10 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      design:
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['20px', '0', '20px', '0']
   - block: collection
     id: featured
     content:
@@ -26,6 +30,9 @@ sections:
     design:
       columns: '1'
       view: compact
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: experience
     id: timeline
     content:
@@ -62,6 +69,9 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 #  - block: collection
 #    id: featured
 #    content:
