@@ -11,10 +11,10 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      design:
-        spacing:
-          # Customize the section spacing. Order is top, right, bottom, left.
-          padding: ['20px', '0', '20px', '0']
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
   - block: collection
     id: featured
     content:
