@@ -18,11 +18,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        You can take a look of a complete list of publications [here](./publication/).
-        {{% /callout %}}
+      title: Publications
       filters:
         folders:
           - publication
