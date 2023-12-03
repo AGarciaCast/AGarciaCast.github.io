@@ -46,8 +46,7 @@ header:
 
 footer:
   copyright:
-    notice: '[**Mortarboard**](https://icons8.com/icon/79388/mortarboard) icon by [**Icons8**](https://icons8.com)
-    
+    notice: '[**Mortarboard**](https://icons8.com/icon/79388/mortarboard) icon by [**Icons8**](https://icons8.com)\
     © {year} Me. This work is licensed under {license}'
     license:
       enable: true
