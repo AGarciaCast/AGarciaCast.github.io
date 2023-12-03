@@ -21,7 +21,7 @@ role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: RPL at KTH
+  - name: RPL @ KTH
     url: https://www.kth.se/is/rpl
 
 # Short bio (displayed in user profile at end of posts)
