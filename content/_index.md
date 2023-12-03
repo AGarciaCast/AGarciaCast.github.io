@@ -63,13 +63,13 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        You can take a look of a complete list of publications [here](./publication/).
         {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: compact
 ---
