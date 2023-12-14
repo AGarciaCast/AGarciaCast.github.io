@@ -1,5 +1,5 @@
 ---
-title: 'Robustness of persistent homology: the Stability Theorem *(in Spanish)*'
+title: 'Robustness of persistent homology: the Stability Theorem <em>(in Spanish)<em>'
 authors:
 - Alejandro García Castellanos
 date: '2021-06-01'
