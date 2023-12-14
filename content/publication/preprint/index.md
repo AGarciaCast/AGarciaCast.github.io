@@ -1,19 +1,17 @@
 ---
-title: "Topological regularization and
-relative latent representations"
+title: 'Robustness of persistent homology: the Stability Theorem [in Spanish]'
 authors:
-- admin
-date: "2023-09-16T00:00:00Z"
-doi: ""
-publishDate: "2023-12-14T12:50:00Z"
+- Alejandro García Castellanos
+date: '2023-09-16'
+publishDate: '2023-12-14T12:50:40.999939Z'
 publication_types: ["thesis"]
-abstract: 'This Master's Thesis delves into the application of topological regularization techniques and relative latent representations within the realm of zero-shot model stitching. Building upon the prior work of Moschella et al. (2022) that introduces relative latent representations to enhance the similarities between latent spaces of different models, we incorporate the approach of Hofer et al. (2021), which combines Topological Data Analysis (TDA) and Machine Learning techniques for topological densification of class distributions in the latent space.
+abstract: "This Master's Thesis delves into the application of topological regularization techniques and relative latent representations within the realm of zero-shot model stitching. Building upon the prior work of Moschella et al. (2022) that introduces relative latent representations to enhance the similarities between latent spaces of different models, we incorporate the approach of Hofer et al. (2021), which combines Topological Data Analysis (TDA) and Machine Learning techniques for topological densification of class distributions in the latent space.
 
 The main research objective is to investigate the impact of topological regularization on zero-shot stitching performance when employing relative latent representations. Theoretical foundations for the relative transformation are established based on the intertwiner groups of activation functions. Empirical analyses are conducted to validate the assumptions underlying the construction of the relative transformation in the latent space. Moreover, experiments are performed on a Large Language Model trained on multilingual Amazon Reviews datasets to evaluate the effectiveness of zero-shot stitching while using the topological densification technique and the relative transformation.
 
 The findings indicate that the proposed methodologies can enhance the performance of multilingual model stitching. Specifically, enforcing the relative transformation to preserve the H_{0} homology death times distributions proves beneficial. Additionally, the presence of similar topological features plays a crucial role in achieving higher model compatibility. However, a more in-depth exploration of the geometric properties of the post-relative transformation latent space is necessary to further improve the topological densification technique.
 
-Overall, this work contributes to the emerging field of Topological Machine Learning and provides valuable insights for researchers in transfer learning and representation learning domains.'
+Overall, this work contributes to the emerging field of Topological Machine Learning and provides valuable insights for researchers in transfer learning and representation learning domains."
 url_pdf: 'MasterThesis_AlejandroGarcia.pdf'
 url_code: 'https://github.com/AGarciaCast/Topo_Reg_Relative_Rep/tree/main-code'
 url_dataset: ''
