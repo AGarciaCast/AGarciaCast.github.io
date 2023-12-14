@@ -29,6 +29,7 @@ bio: I am a research engineer in the Division of Robotics, Perception, and Learn
 
 # Interests to show in About widget
 interests:
+  - Representation Learning
   - Geometric Deep Learing
   - Topological Deep Learning
   - Non-Euclidean Geometry
