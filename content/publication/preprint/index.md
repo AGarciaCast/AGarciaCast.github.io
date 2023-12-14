@@ -5,7 +5,7 @@ authors:
 - admin
 date: "2023-09-16T00:00:00Z"
 doi: ""
-publishDate: "2023-12-14T12:50:0Z"
+publishDate: "2023-12-14T12:50:00Z"
 publication_types: ["thesis"]
 abstract: 'This Master's Thesis delves into the application of topological regularization techniques and relative latent representations within the realm of zero-shot model stitching. Building upon the prior work of Moschella et al. (2022) that introduces relative latent representations to enhance the similarities between latent spaces of different models, we incorporate the approach of Hofer et al. (2021), which combines Topological Data Analysis (TDA) and Machine Learning techniques for topological densification of class distributions in the latent space.
 
