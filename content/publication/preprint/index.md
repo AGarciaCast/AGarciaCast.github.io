@@ -1,5 +1,5 @@
 ---
-title: 'Robustness of persistent homology: the Stability Theorem [in Spanish]'
+title: 'Topological regularization and relative latent representations'
 authors:
 - Alejandro García Castellanos
 date: '2023-09-16'
