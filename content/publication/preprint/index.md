@@ -1,68 +1,42 @@
 ---
-title: "An example preprint / working paper"
+title: "Topological regularization and
+relative latent representations"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-09-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-12-14T12:50:0Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["thesis"]
 
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'This Master's Thesis delves into the application of topological regularization techniques and relative latent representations within the realm of zero-shot model stitching. Building upon the prior work of Moschella et al. (2022) that introduces relative latent representations to enhance the similarities between latent spaces of different models, we incorporate the approach of Hofer et al. (2021), which combines Topological Data Analysis (TDA) and Machine Learning techniques for topological densification of class distributions in the latent space.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+The main research objective is to investigate the impact of topological regularization on zero-shot stitching performance when employing relative latent representations. Theoretical foundations for the relative transformation are established based on the intertwiner groups of activation functions. Empirical analyses are conducted to validate the assumptions underlying the construction of the relative transformation in the latent space. Moreover, experiments are performed on a Large Language Model trained on multilingual Amazon Reviews datasets to evaluate the effectiveness of zero-shot stitching while using the topological densification technique and the relative transformation.
 
-tags:
-- Source Themes
-featured: false
+The findings indicate that the proposed methodologies can enhance the performance of multilingual model stitching. Specifically, enforcing the relative transformation to preserve the H\textsubscript{0} homology death times distributions proves beneficial. Additionally, the presence of similar topological features plays a crucial role in achieving higher model compatibility. However, a more in-depth exploration of the geometric properties of the post-relative transformation latent space is necessary to further improve the topological densification technique.
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+Overall, this work contributes to the emerging field of Topological Machine Learning and provides valuable insights for researchers in transfer learning and representation learning domains.'
+
+
+url_pdf: 'MasterThesis_AlejandroGarcia.pdf'
+url_code: 'https://github.com/AGarciaCast/Topo_Reg_Relative_Rep/tree/main-code'
+url_dataset: ''
+url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_slides: 'SlidesMasterThesis.pdf'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
