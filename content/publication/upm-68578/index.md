@@ -18,11 +18,11 @@ abstract: Persistence diagrams of real-valued functions on topological spaces ar
   distances to illustrate with several examples the stability of the persistence diagrams,
   focusing on filtrations of simplicial complexes associated with point clouds with
   some noise.
-links:
-- name: URL
-  url: https://oa.upm.es/68578/
+#links:
+#- name: URL
+#  url: https://oa.upm.es/68578/
 url_pdf: https://oa.upm.es/68578/1/TFG_ALEJANDRO_GARCIA_CASTELLANOS.pdf
-url_code: https://oa.upm.es/68578/1/TFG_ALEJANDRO_GARCIA_CASTELLANOS.pdf
+url_code: https://github.com/AGarciaCast/TeoremaEstabilidad
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -33,7 +33,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Source: Cohen-Steiner et al, 2007'
   focal_point: ""
   preview_only: false
 ---
