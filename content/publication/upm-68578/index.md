@@ -1,5 +1,5 @@
 ---
-title: 'Robustez de la homología persistente: el Teorema de Estabilidad'
+title: 'Robustness of persistent homology: the Stability Theorem'
 authors:
 - Alejandro García Castellanos
 date: '2021-06-01'
@@ -21,4 +21,19 @@ abstract: Persistence diagrams of real-valued functions on topological spaces ar
 links:
 - name: URL
   url: https://oa.upm.es/68578/
+url_pdf: https://oa.upm.es/68578/1/TFG_ALEJANDRO_GARCIA_CASTELLANOS.pdf
+url_code: https://oa.upm.es/68578/1/TFG_ALEJANDRO_GARCIA_CASTELLANOS.pdf
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 ---
