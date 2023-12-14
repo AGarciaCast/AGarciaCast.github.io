@@ -33,7 +33,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Source: Cohen-Steiner et al, 2007'
+  #caption: 'Source: Cohen-Steiner et al, 2007'
   focal_point: ""
   preview_only: false
 ---
