@@ -23,11 +23,26 @@ abstract: This Master's Thesis delves into the application of topological regula
   using the topological densification technique and the relative transformation.  The
   findings indicate that the proposed methodologies can enhance the performance of
   multilingual model stitching. Specifically, enforcing the relative transformation
-  to preserve the H_0 homology death times distributions proves beneficial. Additionally,
+  to preserve the {{< math >}}$H_0${{< /math >}} homology death times distributions proves beneficial. Additionally,
   the presence of similar topological features plays a crucial role in achieving higher
   model compatibility. However, a more in-depth exploration of the geometric properties
   of the post-relative transformation latent space is necessary to further improve
   the topological densification technique.  Overall, this work contributes to the
   emerging field of Topological Machine Learning and provides valuable insights for
   researchers in transfer learning and representation learning domains.
+
+url_pdf: 'MasterThesis_AlejandroGarcia.pdf'
+url_code: 'https://github.com/AGarciaCast/Topo_Reg_Relative_Rep/tree/main-code'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: 'SlidesMasterThesis.pdf'
+url_source: ''
+url_video: ''
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 ---
