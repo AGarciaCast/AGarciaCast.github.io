@@ -56,7 +56,7 @@ sections:
               *  I also explored Manifold Learning techniques, employing probabilistic models to understand data shapes, following the methodology of Georgios Arvanitidis (2021).
               * Currently, I am working on a project that aims to recover the underlying hierarchies within hyperbolic embeddings.
         - title: Trainee Internship
-          company: MEDAL laboratory
+          company: MEDAL laboratory @ UPM
           company_url: ''
           company_logo: 'medal'
           location: Madrid, Spain
