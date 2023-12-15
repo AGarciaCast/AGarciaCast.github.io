@@ -42,27 +42,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Engineer
+          company: Division of Robotics, Perception and Learning @ KTH
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: ''
+          location: Stockholm, Sweden
+          date_start: '2023-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Projects under the supervision of Danica Kragic:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              *  I delved into Geometric Deep Learning and Lie groups while working on a project that involved devising path-finding algorithms on learned equivariant representations through class-pose decomposition
+              *  I also explored Manifold Learning techniques, employing probabilistic models to understand data shapes, following the methodology of Georgios Arvanitidis (2021).
+              * Currently, I am working on a project that aims to recover the underlying hierarchies within hyperbolic embeddings.
+        - title: Trainee Internship
+          company: MEDAL laboratory
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: Madrid, Spain
+          date_start: '2020-09-01'
+          date_end: '2021-01-01'
+          description: I worked with the NLP team to improve Named-Entity Recognition (NER) work on Spanish-language breast and lung cancer health records. Specically, I have been in charge of obtaining metrics, doses, and numbers, using formal language techniques and BERT models.
     design:
       columns: '2'
       spacing:
