@@ -52,7 +52,7 @@ sections:
           description: |2-
               Projects under the supervision of Danica Kragic:
 
-              *  I delved into Geometric Deep Learning and Lie groups while working on a project that involved devising path-finding algorithms on learned equivariant representations through class-pose decomposition
+              *  I delved into Geometric Deep Learning and Lie groups while working on a project that involved devising path-finding algorithms on learned equivariant representations through class-pose decomposition.
               *  I also explored Manifold Learning techniques, employing probabilistic models to understand data shapes, following the methodology of Georgios Arvanitidis (2021).
               * Currently, I am working on a project that aims to recover the underlying hierarchies within hyperbolic embeddings.
         - title: Trainee Internship
@@ -65,9 +65,9 @@ sections:
           description: |2-
             Projects under the supervision of Ernestina Menasalvas Ruiz: 
 
-            * Application of information recognition algorithms in clinical notes
-            * Development of new techniques for the recognition of metrics, doses and numbers
-            * Fine-tuning a BERT model in breast and lung cancer's clinical notes
+            * Application of information recognition algorithms in clinical notes.
+            * Development of new techniques for the recognition of metrics, doses and numbers.
+            * Fine-tuning a BERT model in breast and lung cancer's clinical notes.
     design:
       columns: '2'
       spacing:
