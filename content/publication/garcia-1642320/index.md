@@ -2,7 +2,7 @@
 title: Topological regularization and relative latent representations
 authors:
 - Alejandro García Castellanos
-date: '2023-01-01'
+date: '2023-10-16'
 publishDate: '2023-12-14T12:28:41.301312Z'
 publication_types:
 - thesis
