@@ -62,7 +62,12 @@ sections:
           location: Madrid, Spain
           date_start: '2020-09-01'
           date_end: '2021-01-01'
-          description: I worked with the NLP team to improve Named-Entity Recognition (NER) work on Spanish-language breast and lung cancer health records. Specically, I have been in charge of obtaining metrics, doses, and numbers, using formal language techniques and BERT models.
+          description: |2-
+            Projects under the supervision of Ernestina Menasalvas Ruiz: 
+
+            * Application of information recognition algorithms in clinical notes
+            * Development of new techniques for the recognition of metrics, doses and numbers
+            * Fine-tuning a BERT model in breast and lung cancer's clinical notes
     design:
       columns: '2'
       spacing:
