@@ -31,7 +31,7 @@ abstract: This Master's Thesis delves into the application of topological regula
   emerging field of Topological Machine Learning and provides valuable insights for
   researchers in transfer learning and representation learning domains.
 
-url_pdf: '#/publication/garcia-1642320/thesis.pdf'
+url_pdf: '/publication/garcia-1642320/thesis.pdf'
 url_code: 'https://github.com/AGarciaCast/Topo_Reg_Relative_Rep/tree/main-code'
 url_dataset: ''
 url_poster: ''
