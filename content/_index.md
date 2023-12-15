@@ -58,7 +58,7 @@ sections:
         - title: Trainee Internship
           company: MEDAL laboratory
           company_url: ''
-          company_logo: ''
+          company_logo: 'medal'
           location: Madrid, Spain
           date_start: '2020-09-01'
           date_end: '2021-01-01'
