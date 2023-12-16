@@ -58,7 +58,7 @@ sections:
         - title: Trainee Internship
           company: Medical Data Analytics Laboratory @ UPM
           company_url: ''
-          company_logo: 'medal.png'
+          company_logo: '
           location: Madrid, Spain
           date_start: '2020-09-01'
           date_end: '2021-01-01'
