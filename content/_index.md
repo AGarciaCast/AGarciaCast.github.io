@@ -85,15 +85,15 @@ sections:
 #      columns: '2'
 #      view: card
   - block: contact
-      id: contact
-      content:
-        title: Contact
-        subtitle:
-        text: ''
-        # Contact (add or remove contact options as necessary)
-        email: algc@kth.se
-        # Automatically link email and phone or display as text?
-        autolink: true
-      design:
-        columns: '2'
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: ''
+      # Contact (add or remove contact options as necessary)
+      email: algc@kth.se
+      # Automatically link email and phone or display as text?
+      autolink: true
+    design:
+      columns: '2'
 ---
