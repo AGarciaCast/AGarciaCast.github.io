@@ -95,7 +95,7 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     design:
-      columns: '1'
+      columns: '2'
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
