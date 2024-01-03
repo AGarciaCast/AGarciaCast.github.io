@@ -46,4 +46,18 @@ tags:
 - Modell sömmar
 - Topologisk dataanalys
 - Zero-shot
+url_pdf: 'https://kth.diva-portal.org/smash/get/diva2:1820224/FULLTEXT01.pdf'
+url_code: 'https://github.com/AGarciaCast/Topo_Reg_Relative_Rep/tree/main-code'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: 'SlidesMasterThesis.pdf'
+url_source: ''
+url_video: ''
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 ---
