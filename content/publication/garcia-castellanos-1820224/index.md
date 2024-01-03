@@ -39,13 +39,6 @@ tags:
 - Model Stitching
 - Topological DataAnalysis
 - Zero-shot
-- Algebraisk topologi
-- Stora språkmodeller
-- Relativ representation
-- Representationsinlärning
-- Modell sömmar
-- Topologisk dataanalys
-- Zero-shot
 url_pdf: 'https://kth.diva-portal.org/smash/get/diva2:1820224/FULLTEXT01.pdf'
 url_code: 'https://github.com/AGarciaCast/Topo_Reg_Relative_Rep/tree/main-code'
 url_dataset: ''
