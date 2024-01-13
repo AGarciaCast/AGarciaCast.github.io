@@ -5,7 +5,7 @@ authors:
 date: '2021-06-01'
 publishDate: '2023-12-14T10:35:40.999939Z'
 publication_types: ["thesis"]
-abstract: In this undergraduate thesis, the Stability Theorem of Persistence Diagrams for the bottleneck distance
+abstract: In this Bachelor's Thesis, the Stability Theorem of Persistence Diagrams for the bottleneck distance
   is stated and proved following Cohen-Steiner et al. (2007). This theorem guarantees
   the robustness of the persistence diagrams under mild assumptions, that is, that
   \"small\" changes in the functions result in \"close\" persistence diagrams. To
