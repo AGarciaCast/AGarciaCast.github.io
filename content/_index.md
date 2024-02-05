@@ -100,7 +100,7 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: algc@kth.se
+      email: a.garciacastellanos@uva.nl
       # Automatically link email and phone or display as text?
       autolink: true
     design:
