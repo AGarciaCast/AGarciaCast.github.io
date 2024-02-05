@@ -50,7 +50,7 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-            Under the supervision of Erik Bekkers (University of Amsterdam) and co-supervision of Daniel Pelt (University of Leiden), we will develop techniques for collaborative human-computer image annotation of training sets for deep learning tasks. These techniques will suggest relevant annotations to the human annotator, will indicate inconsistencies in the human annotations, and will use concepts from geometric deep learning to handle shapes of image annotations.
+            Under the supervision of Erik Bekkers (University of Amsterdam) and co-supervision of Daniël Pelt (University of Leiden), we will develop techniques for collaborative human-computer image annotation of training sets for deep learning tasks. These techniques will suggest relevant annotations to the human annotator, will indicate inconsistencies in the human annotations, and will use concepts from geometric deep learning to handle shapes of image annotations.
         - title: Research Engineer
           company: Division of Robotics, Perception and Learning @ KTH
           company_url: ''
