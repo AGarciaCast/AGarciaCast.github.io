@@ -63,7 +63,7 @@ sections:
 
               *  I delved into Geometric Deep Learning and Lie groups while working on a project that involved devising path-finding algorithms on learned equivariant representations through class-pose decomposition.
               *  I also explored Manifold Learning techniques, employing probabilistic models to understand data shapes, following the methodology of Georgios Arvanitidis (2021).
-              * Currently, I am working on a project that aims to recover the underlying hierarchies within hyperbolic embeddings.
+              * Lastly, I worked on a project that proposes a method to recover the underlying hierarchies within hyperbolic embeddings.
         - title: Trainee Internship
           company: Medical Data Analytics Laboratory @ UPM
           company_url: ''
