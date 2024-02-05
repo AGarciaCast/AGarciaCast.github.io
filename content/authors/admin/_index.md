@@ -25,7 +25,7 @@ organizations:
     url: https://amlab.science.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning.
+bio: I am a PhD candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning.
 
 # Interests to show in About widget
 interests:
@@ -78,5 +78,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD Candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning.
+I am a PhD candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning.
 {style="text-align: justify;"}
