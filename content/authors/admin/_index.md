@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Engineer
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: RPL @ KTH
-    url: https://www.kth.se/is/rpl
+  - name: AMLab @ UvA
+    url: https://amlab.science.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research engineer in the Division of Robotics, Perception, and Learning, focusing on applying topology, algebra, and geometry in machine learning.
+bio: I am a PhD Candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning.
 
 # Interests to show in About widget
 interests:
