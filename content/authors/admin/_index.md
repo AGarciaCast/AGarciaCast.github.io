@@ -78,5 +78,5 @@ social:
 highlight_name: true
 ---
 
-I am a research engineer in the Division of Robotics, Perception, and Learning, focusing on applying topology, algebra, and geometry in machine learning.
+I am a PhD Candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning.
 {style="text-align: justify;"}
