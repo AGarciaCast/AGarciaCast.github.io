@@ -31,7 +31,7 @@ bio: I am a PhD candidate at University of Amsterdam, focusing on applying topol
 interests:
   - Representation Learning
   - Geometric Deep Learing
-  - Topological Deep Learning
+  - Topological Machine Learning
   - Non-Euclidean Geometry
 
 # Education to show in About widget
