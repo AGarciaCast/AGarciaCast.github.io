@@ -56,9 +56,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/algarciacast
-#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#    icon_pack: fas
-#    link: https://scholar.google.com
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=dzdhlJwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/AGarciaCast
