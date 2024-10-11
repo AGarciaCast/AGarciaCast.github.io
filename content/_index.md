@@ -16,16 +16,29 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
   - block: collection
-    id: featured
+    id: papers
     content:
-      title: Publications
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '1'
+      view: compact
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      columns: '1'
-      view: compact
+      view: citation
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']

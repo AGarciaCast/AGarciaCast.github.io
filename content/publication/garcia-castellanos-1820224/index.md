@@ -47,6 +47,8 @@ url_project: ''
 url_slides: 'SlidesMasterThesis.pdf'
 url_source: ''
 url_video: ''
+
+featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
