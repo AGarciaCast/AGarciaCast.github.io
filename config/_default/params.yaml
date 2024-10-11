@@ -32,6 +32,8 @@ marketing:
 
 # Site header
 
+highlight_superuser: true
+
 header:
   navbar:
     enable: true
