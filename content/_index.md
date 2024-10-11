@@ -24,8 +24,8 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '1'
-      view: compact
+      view: article-grid
+      columns: 2
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']

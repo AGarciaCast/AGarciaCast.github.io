@@ -12,4 +12,11 @@ publication_types:
 - paper-conference
 publication: '*ICML 2024 Workshop on Geometry-grounded Representation Learning and
   Generative Modeling*'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  #caption: 'Source: Cohen-Steiner et al, 2007'
+  focal_point: ""
+  preview_only: false
 ---
