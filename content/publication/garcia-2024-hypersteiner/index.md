@@ -7,7 +7,7 @@ title: 'HyperSteiner: Computing Heuristic Hyperbolic Steiner Minimal Trees'
 # - Erik J Bekkers
 # - Danica Kragic
 
-authors = ["**Alejandro Garcı́a Castellanos**", "Aniss Aiman Medbouhi", "Giovanni Luca Marchetti"]
+authors : ["**Alejandro Garcı́a Castellanos**", "Aniss Aiman Medbouhi", "Giovanni Luca Marchetti"]
 
 date: '2024-01-01'
 publishDate: '2024-10-11T12:13:07.028486Z'
