@@ -1,7 +1,7 @@
 ---
 title: 'Relative Representations: Topological and Geometric Perspectives'
 authors:
-- Alejandro Garcı́a-Castellanos
+- Alejandro Garcı́a Castellanos
 - Giovanni Luca Marchetti
 - Danica Kragic
 - Martina Scolamiero
