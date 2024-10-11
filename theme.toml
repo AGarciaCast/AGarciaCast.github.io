@@ -47,3 +47,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = ""
   homepage = ""
   repo = ""
+
+
+highlight_superuser = true
