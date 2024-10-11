@@ -2,7 +2,7 @@
 title: Learning symmetries via weight-sharing with doubly stochastic tensors
 authors:
 - Putri A Van der Linden
-- Alejandro Garcı́a Castellanos
+- "**Alejandro Garcı́a Castellanos**"
 - Sharvaree Vadgama
 - Thijs P Kuipers
 - Erik J Bekkers
