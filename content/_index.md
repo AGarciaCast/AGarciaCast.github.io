@@ -16,7 +16,7 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
   - block: collection
-    id: papers
+    id: featured
     content:
       title: Featured Publications
       filters:
@@ -24,8 +24,8 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      columns: '1'
+      view: compact
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
