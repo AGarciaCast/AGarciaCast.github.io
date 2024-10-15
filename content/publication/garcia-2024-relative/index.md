@@ -21,7 +21,7 @@ tags:
 - Model Stitching
 - Topological DataAnalysis
 - Zero-shot
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2409.10967'
 url_code: 'https://github.com/AGarciaCast/TopoRobRelTrans'
 url_dataset: ''
 url_poster: ''
