@@ -31,7 +31,7 @@ sections:
         padding: ['20px', '0', '20px', '0']
   - block: collection
     content:
-      title: Recent Publications
+      title: Publication List
       text: ""
       filters:
         folders:
