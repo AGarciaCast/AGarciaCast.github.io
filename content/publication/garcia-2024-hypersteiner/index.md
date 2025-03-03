@@ -20,7 +20,7 @@ url_code: 'https://github.com/AGarciaCast/HyperSteiner'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'hyperSteinerSlides.pdf'
 url_source: ''
 url_video: ''
 
