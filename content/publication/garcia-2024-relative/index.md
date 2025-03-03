@@ -24,7 +24,7 @@ tags:
 url_pdf: 'https://arxiv.org/pdf/2409.10967'
 url_code: 'https://github.com/AGarciaCast/TopoRobRelTrans'
 url_dataset: ''
-url_poster: 'poster_Unireps.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
