@@ -41,7 +41,7 @@ education:
       institution: KTH Royal Institute of Technology
       year: 2023
     - course: BSc in Mathematics and Computing
-      institution: Universidad Politecnica de Madrid
+      institution: Universidad Politécnica de Madrid
       year: 2021
 
 
