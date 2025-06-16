@@ -6,8 +6,7 @@ authors:
 - Giovanni Luca Marchetti
 - Erik J. Bekkers
 - Danica Kragic
-date: -01-01
-publishDate: '2025-06-16T08:10:47.923451Z'
+date: 2025-01-01
 publication_types:
 - chapter
 publication: '*2025 Proceedings of the Symposium on Algorithm Engineering and Experiments
