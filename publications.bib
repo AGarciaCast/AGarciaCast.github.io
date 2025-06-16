@@ -1,52 +1,15 @@
-
-
-
-
-
-
-@inbook{doi:10.1137/1.9781611978339.16,
-author = {Alejandro García-Castellanos and Aniss Aiman Medbouhi and Giovanni Luca Marchetti and Erik J. Bekkers and Danica Kragic},
-title = {HyperSteiner: Computing Heuristic Hyperbolic Steiner Minimal Trees},
-booktitle = {2025 Proceedings of the Symposium on Algorithm Engineering and Experiments (ALENEX)},
-chapter = {},
-pages = {194-208},
-doi = {10.1137/1.9781611978339.16},
-URL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611978339.16},
-eprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611978339.16},
-    abstract = { We propose HyperSteiner – an efficient heuristic algorithm for computing Steiner minimal trees in the hyperbolic space. HyperSteiner extends the Euclidean Smith-Lee-Liebman algorithm, which is grounded in a divide-and-conquer approach involving the Delaunay triangulation. The central idea is rephrasing Steiner tree problems with three terminals as a system of equations in the Klein-Beltrami model. Motivated by the fact that hyperbolic geometry is well-suited for representing hierarchies, we explore applications to hierarchy discovery in data. Results show that HyperSteiner infers more realistic hierarchies than the Minimum Spanning Tree and is more scalable to large datasets than Neighbor Joining. }
-}
-
-
-@inproceedings{DBLP:conf/nips/LindenGVKB24,
-  author       = {Putri A. van der Linden and
-                  Alejandro Garc{\'{\i}}a{-}Castellanos and
-                  Sharvaree P. Vadgama and
-                  Thijs P. Kuipers and
-                  Erik J. Bekkers},
-  editor       = {Amir Globersons and
-                  Lester Mackey and
-                  Danielle Belgrave and
-                  Angela Fan and
-                  Ulrich Paquet and
-                  Jakub M. Tomczak and
-                  Cheng Zhang},
-  title        = {Learning symmetries via weight-sharing with doubly stochastic tensors},
-  booktitle    = {Advances in Neural Information Processing Systems 38: Annual Conference
-                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,
-                  BC, Canada, December 10 - 15, 2024},
-  year         = {2024},
-  url          = {http://papers.nips.cc/paper\_files/paper/2024/hash/4b34143d8a1e651f00002e31b3b72e95-Abstract-Conference.html},
-  timestamp    = {Thu, 13 Feb 2025 16:56:43 +0100},
-  biburl       = {https://dblp.org/rec/conf/nips/LindenGVKB24.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-
-@misc{garcíacastellanos2025equivarianteikonalneuralnetworks,
-      title={Equivariant Eikonal Neural Networks: Grid-Free, Scalable Travel-Time Prediction on Homogeneous Spaces}, 
-      author={Alejandro García-Castellanos and David R. Wessels and Nicky J. van den Berg and Remco Duits and Daniël M. Pelt and Erik J. Bekkers},
-      year={2025},
-      eprint={2505.16035},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2505.16035}, 
+@InProceedings{pmlr-v285-garcia-castellanos24a,
+  title = 	 {Relative Representations: Topological and Geometric Perspectives},
+  author =       {Garc{\'i}a-Castellanos, Alejandro and Marchetti, Giovanni Luca and Kragic, Danica and Scolamiero, Martina},
+  booktitle = 	 {Proceedings of UniReps: the Second Edition of the Workshop on Unifying Representations in Neural Models},
+  pages = 	 {219--231},
+  year = 	 {2024},
+  editor = 	 {Fumero, Marco and Domine, Clementine and Lähner, Zorah and Crisostomi, Donato and Moschella, Luca and Stachenfeld, Kimberly},
+  volume = 	 {285},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {14 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v285/main/assets/garcia-castellanos24a/garcia-castellanos24a.pdf},
+  url = 	 {https://proceedings.mlr.press/v285/garcia-castellanos24a.html},
+  abstract = 	 {Relative representations are an established approach to zero-shot model stitching, consisting of a non-trainable transformation of the latent space of a deep neural network. Based on insights of topological and geometric nature, we propose two improvements to relative representations. First, we introduce a normalization procedure in the relative transformation, resulting in invariance to non-isotropic rescalings and permutations. The latter coincides with the symmetries in parameter space induced by common activation functions. Second, we propose to deploy topological densification when fine-tuning relative representations, a topological regularization loss encouraging clustering within classes. We provide an empirical investigation on a natural language task, where both the proposed variations yield improved performance on zero-shot model stitching.}
 }
