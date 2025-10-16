@@ -40,7 +40,7 @@ education:
     - course: MSc in Machine Learning 
       institution: KTH Royal Institute of Technology
       year: 2023
-    - course: BSc in Mathematics and Computing
+    - course: BSc in Mathematics and Computer Science
       institution: Universidad Politécnica de Madrid
       year: 2021
 
