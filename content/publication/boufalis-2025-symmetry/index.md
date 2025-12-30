@@ -37,7 +37,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-featured: true
+featured: false
 
 
 
