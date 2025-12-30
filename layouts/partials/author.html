@@ -1,7 +1,7 @@
 {{- /* Override: single author renderer */ -}}
 {{- $name := . -}}
 {{- $lname := lower $name -}}
-{{- $isMe := and (strings.Contains $lname "alejandro") (strings.Contains $lname "garci")) -}}
+{{- $isMe := and (strings.Contains $lname "alejandro") (strings.Contains $lname "garci") -}}
 {{- if $isMe -}}
   <strong>{{ $name }}</strong>
 {{- else -}}
