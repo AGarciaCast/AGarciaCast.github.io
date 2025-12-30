@@ -29,19 +29,6 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
-  - block: collection
-    content:
-      title: Publication List
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
 
 
   - block: collection
@@ -71,7 +58,24 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-      
+  
+  - block: collection
+    content:
+      title: Publication List
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
+
+
+
+
   - block: experience
     id: timeline
     content:
