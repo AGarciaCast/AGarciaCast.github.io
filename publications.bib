@@ -1,15 +1,51 @@
-@InProceedings{pmlr-v285-garcia-castellanos24a,
-  title = 	 {Relative Representations: Topological and Geometric Perspectives},
-  author =       {Garc{\'i}a-Castellanos, Alejandro and Marchetti, Giovanni Luca and Kragic, Danica and Scolamiero, Martina},
-  booktitle = 	 {Proceedings of UniReps: the Second Edition of the Workshop on Unifying Representations in Neural Models},
-  pages = 	 {219--231},
-  year = 	 {2024},
-  editor = 	 {Fumero, Marco and Domine, Clementine and Lähner, Zorah and Crisostomi, Donato and Moschella, Luca and Stachenfeld, Kimberly},
-  volume = 	 {285},
-  series = 	 {Proceedings of Machine Learning Research},
-  month = 	 {14 Dec},
-  publisher =    {PMLR},
-  pdf = 	 {https://raw.githubusercontent.com/mlresearch/v285/main/assets/garcia-castellanos24a/garcia-castellanos24a.pdf},
-  url = 	 {https://proceedings.mlr.press/v285/garcia-castellanos24a.html},
-  abstract = 	 {Relative representations are an established approach to zero-shot model stitching, consisting of a non-trainable transformation of the latent space of a deep neural network. Based on insights of topological and geometric nature, we propose two improvements to relative representations. First, we introduce a normalization procedure in the relative transformation, resulting in invariance to non-isotropic rescalings and permutations. The latter coincides with the symmetries in parameter space induced by common activation functions. Second, we propose to deploy topological densification when fine-tuning relative representations, a topological regularization loss encouraging clustering within classes. We provide an empirical investigation on a natural language task, where both the proposed variations yield improved performance on zero-shot model stitching.}
+
+@article{DBLP:journals/corr/abs-2510-08300,
+  author       = {Bart Kuipers and
+                  Freek Byrman and
+                  Daniel Uyterlinde and
+                  Alejandro Garc{\'{\i}}a{-}Castellanos},
+  title        = {Symmetry-Aware Fully-Amortized Optimization with Scale Equivariant
+                  Graph Metanetworks},
+  journal      = {CoRR},
+  volume       = {abs/2510.08300},
+  year         = {2025},
+  URL          = {https://doi.org/10.48550/arXiv.2510.08300},
+  doi          = {10.48550/ARXIV.2510.08300},
+  eprinttype    = {arXiv},
+  eprint       = {2510.08300},
+  timestamp    = {Tue, 11 Nov 2025 13:12:19 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2510-08300.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+abstract ={Amortized optimization accelerates the solution of related optimization problems by learning mappings that exploit shared structure across problem instances. We explore the use of Scale Equivariant Graph Metanetworks (ScaleGMNs) for this purpose. By operating directly in weight space, ScaleGMNs enable single-shot fine-tuning of existing models, reducing the need for iterative optimization. We demonstrate the effectiveness of this approach empirically and provide a theoretical result: the gauge freedom induced by scaling symmetries is strictly smaller in convolutional neural networks than in multi-layer perceptrons. This insight helps explain the performance differences observed between architectures in both our work and that of Kalogeropoulos et al. (2024). Overall, our findings underscore the potential of symmetry-aware metanetworks as a powerful approach for efficient and generalizable neural network optimization.}
+}
+
+@article{DBLP:journals/corr/abs-2510-09328,
+  author       = {Aniss Aiman Medbouhi and
+                  Alejandro Garc{\'{\i}}a{-}Castellanos and
+                  Giovanni Luca Marchetti and
+                  Daniel Pelt and
+                  Erik J. Bekkers and
+                  Danica Kragic},
+  title        = {Randomized HyperSteiner: {A} Stochastic Delaunay Triangulation Heuristic
+                  for the Hyperbolic Steiner Minimal Tree},
+  journal      = {CoRR},
+  volume       = {abs/2510.09328},
+  year         = {2025},
+  URL          = {https://doi.org/10.48550/arXiv.2510.09328},
+  doi          = {10.48550/ARXIV.2510.09328},
+  eprinttype    = {arXiv},
+  eprint       = {2510.09328},
+  timestamp    = {Tue, 11 Nov 2025 13:12:26 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2510-09328.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+abstract={We study the problem of constructing Steiner Minimal Trees (SMTs) in hyperbolic space. Exact SMT computation is NP-hard, and existing hyperbolic heuristics such as HyperSteiner are deterministic and often get trapped in locally suboptimal configurations. We introduce Randomized HyperSteiner (RHS), a stochastic Delaunay triangulation heuristic that incorporates randomness into the expansion process and refines candidate trees via Riemannian gradient descent optimization. Experiments on synthetic data sets and a real-world single-cell transcriptomic data show that RHS outperforms Minimum Spanning Tree (MST), Neighbour Joining, and vanilla HyperSteiner (HS). In near-boundary configurations, RHS can achieve a 32% reduction in total length over HS, demonstrating its effectiveness and robustness in diverse data regimes.}
+}
+
+@article{boufalis2025symmetry,
+  title={Symmetry-Aware Graph Metanetwork Autoencoders: Model Merging through Parameter Canonicalization},
+  author={Boufalis, Odysseas and Carrasco-Pollo, Jorge and Rosenthal, Joshua and Terres-Caballero, Eduardo and Garc{\'\i}a-Castellanos, Alejandro},
+  journal={arXiv preprint arXiv:2511.12601},
+  year={2025},
+URL   ={https://arxiv.org/pdf/2511.12601},
+abstract={Neural network parameterizations exhibit inherent symmetries that yield multiple equivalent minima within the loss landscape. Scale Graph Metanetworks (ScaleGMNs) explicitly leverage these symmetries by proposing an architecture equivariant to both permutation and parameter scaling transformations. Previous work by Ainsworth et al. (2023) addressed permutation symmetries through a computationally intensive combinatorial assignment problem, demonstrating that leveraging permutation symmetries alone can map networks into a shared loss basin. In this work, we extend their approach by also incorporating scaling symmetries, presenting an autoencoder framework utilizing ScaleGMNs as invariant encoders. Experimental results demonstrate that our method aligns Implicit Neural Representations (INRs) and Convolutional Neural Networks (CNNs) under both permutation and scaling symmetries without explicitly solving the assignment problem. This approach ensures that similar networks naturally converge within the same basin, facilitating model merging, i.e., smooth linear interpolation while avoiding regions of high loss. The code is publicly available on our GitHub repository.}
 }
