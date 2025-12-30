@@ -1,0 +1,17 @@
+{{- /* Custom byline partial: render .Params.authors, link to author page if found, bold Alejandro García-Castellanos */ -}}
+{{- $authors := .Params.authors -}}
+{{- if not $authors }}{{- return -}}{{- end -}}
+{{- $authorPages := where site.RegularPages "Section" "authors" -}}
+{{- $first := true -}}
+<span class="byline">
+{{- range $i, $name := $authors -}}
+  {{- if not $first }}, {{- end -}}
+  {{- $matched := first 1 (where $authorPages "Title" $name) -}}
+  {{- if $matched -}}
+    <a href="{{ $matched.RelPermalink }}">{{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end }}</a>
+  {{- else -}}
+    {{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end -}}
+  {{- end -}}
+  {{- $first = false -}}
+{{- end -}}
+</span>
