@@ -10,10 +10,12 @@
 {{- range $i, $name := $authors -}}
   {{- if not $first }}{{- print ", " -}}{{- end -}}
   {{- $matched := first 1 (where $authorPages "Title" $name) -}}
+  {{- $lname := lower $name -}}
+  {{- $isMe := and (strings.Contains $lname "alejandro") (strings.Contains $lname "garci")) -}}
   {{- if $matched -}}
-    <a href="{{ $matched.RelPermalink }}">{{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end }}</a>
+    <a href="{{ $matched.RelPermalink }}">{{ if $isMe }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end }}</a>
   {{- else -}}
-    {{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end -}}
+    {{ if $isMe }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end -}}
   {{- end -}}
   {{- $first = false -}}
 {{- end -}}

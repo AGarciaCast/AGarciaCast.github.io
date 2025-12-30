@@ -1,6 +1,8 @@
 {{- /* Override: single author renderer */ -}}
 {{- $name := . -}}
-{{- if eq $name "Alejandro García-Castellanos" -}}
+{{- $lname := lower $name -}}
+{{- $isMe := and (strings.Contains $lname "alejandro") (strings.Contains $lname "garci")) -}}
+{{- if $isMe -}}
   <strong>{{ $name }}</strong>
 {{- else -}}
   {{ $name }}
