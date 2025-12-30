@@ -1,13 +1,13 @@
 ---
 # Display name
-title: "Alejandro García-Castellanos"
+title: "Alejandro García Castellanos"
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Alejandro
-last_name: "García-Castellanos"
+last_name: "García Castellanos"
 
 # Status emoji
 status:
