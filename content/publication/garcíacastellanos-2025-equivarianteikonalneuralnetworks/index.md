@@ -2,7 +2,7 @@
 title: 'Equivariant Eikonal Neural Networks: Grid-Free, Scalable Travel-Time Prediction
   on Homogeneous Spaces'
 authors:
-- '<strong>Alejandro García-Castellanos</strong>'
+- Alejandro García-Castellanos
 - David R. Wessels
 - Nicky J. van den Berg
 - Remco Duits
