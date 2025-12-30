@@ -18,10 +18,10 @@ abstract: ' We introduce Equivariant Neural Eikonal Solvers, a novel framework t
 
 
 url_pdf: 'https://arxiv.org/pdf/2505.16035'
-url_code: ''
+url_code: 'https://github.com/AGarciaCast/E-NES'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'poster_NeurIPS_2026.pdf'
 url_slides: 'EquivEikonal.pdf'
 url_source: ''
 url_video: ''

@@ -27,7 +27,19 @@ abstract: Neural network parameterizations exhibit inherent symmetries that yiel
   within the same basin, facilitating model merging, i.e., smooth linear interpolation
   while avoiding regions of high loss. The code is publicly available on our GitHub
   repository.
-links:
-- name: URL
-  url: https://arxiv.org/pdf/2511.12601
+
+url_pdf: 'https://arxiv.org/pdf/2511.12601'
+url_code: 'https://github.com/odyboufalaki/Symmetry-Aware-Graph-Metanetwork-Autoencoders'
+url_dataset: ''
+url_poster: ''
+url_project: '19-BoufalisPoster.pdf'
+url_slides: ''
+url_source: ''
+url_video: ''
+
+featured: true
+
+
+
+  
 ---

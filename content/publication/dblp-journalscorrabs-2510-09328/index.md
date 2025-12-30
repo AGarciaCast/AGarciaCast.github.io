@@ -24,7 +24,16 @@ abstract: We study the problem of constructing Steiner Minimal Trees (SMTs) in h
   Minimum Spanning Tree (MST), Neighbour Joining, and vanilla HyperSteiner (HS). In
   near-boundary configurations, RHS can achieve a 32% reduction in total length over
   HS, demonstrating its effectiveness and robustness in diverse data regimes.
-links:
-- name: URL
-  url: https://doi.org/10.48550/arXiv.2510.09328
+
+
+url_pdf: 'https://arxiv.org/pdf/2510.09328'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+featured: false
 ---

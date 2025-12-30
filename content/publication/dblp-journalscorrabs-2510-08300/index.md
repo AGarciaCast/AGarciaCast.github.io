@@ -23,7 +23,16 @@ abstract: 'Amortized optimization accelerates the solution of related optimizati
   of Kalogeropoulos et al. (2024). Overall, our findings underscore the potential
   of symmetry-aware metanetworks as a powerful approach for efficient and generalizable
   neural network optimization.'
-links:
-- name: URL
-  url: https://doi.org/10.48550/arXiv.2510.08300
+
+url_pdf: 'https://arxiv.org/pdf/2510.08300'
+url_code: 'https://github.com/daniuyter/scalegmn_amortization'
+url_dataset: ''
+url_poster: 'Amortization_UniReps.pdf'
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+featured: false
+
 ---
