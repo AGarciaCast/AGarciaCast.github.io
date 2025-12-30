@@ -1,0 +1,20 @@
+{{- /* Override: generic authors partial */ -}}
+{{- $authors := .Params.authors -}}
+{{- if not $authors -}}
+  {{- if isset . "Authors" -}}{{- $authors = .Authors -}}{{- end -}}
+{{- end -}}
+{{- if not $authors }}{{- return -}}{{- end -}}
+<div class="authors-list">
+{{- $first := true -}}
+{{- $authorPages := where site.RegularPages "Section" "authors" -}}
+{{- range $i, $name := $authors -}}
+  {{- if not $first }}{{- print ", " -}}{{- end -}}
+  {{- $matched := first 1 (where $authorPages "Title" $name) -}}
+  {{- if $matched -}}
+    <a href="{{ $matched.RelPermalink }}">{{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end }}</a>
+  {{- else -}}
+    {{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end -}}
+  {{- end -}}
+  {{- $first = false -}}
+{{- end -}}
+</div>

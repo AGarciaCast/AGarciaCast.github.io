@@ -1,0 +1,21 @@
+{{- /* Override: publication authors list (path used by some themes) */ -}}
+{{- $page := . -}}
+{{- $authors := $page.Params.authors -}}
+{{- if not $authors -}}
+  {{- if isset $page "Authors" -}}{{- $authors = $page.Authors -}}{{- end -}}
+{{- end -}}
+{{- if not $authors }}{{- return -}}{{- end -}}
+<p class="publication-authors">
+{{- $first := true -}}
+{{- $authorPages := where site.RegularPages "Section" "authors" -}}
+{{- range $i, $name := $authors -}}
+  {{- if not $first }}, {{- end -}}
+  {{- $matched := first 1 (where $authorPages "Title" $name) -}}
+  {{- if $matched -}}
+    <a href="{{ $matched.RelPermalink }}">{{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end }}</a>
+  {{- else -}}
+    {{ if eq $name "Alejandro García-Castellanos" }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end -}}
+  {{- end -}}
+  {{- $first = false -}}
+{{- end -}}
+</p>

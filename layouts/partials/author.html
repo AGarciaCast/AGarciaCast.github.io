@@ -1,0 +1,7 @@
+{{- /* Override: single author renderer */ -}}
+{{- $name := . -}}
+{{- if eq $name "Alejandro García-Castellanos" -}}
+  <strong>{{ $name }}</strong>
+{{- else -}}
+  {{ $name }}
+{{- end -}}
