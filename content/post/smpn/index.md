@@ -1,7 +1,7 @@
 ---
-title: "Effect of equivariance on training dynamics"
+title: "Applications of TopoX to Equivariant Topological Networks"
 date: "2024-09-01"
-summary: "🔍 Searching for the Best Framework for GDL+TDL Methods? Look no further! This blog post reveals how the TopoX suite boosts modularity and optimizes time and memory usage for methods like Equivariant Simplicial Complexes 🚀"
+summary: "🤔 Ever wondered why Relaxed Group Convolutions take the lead even in 𝐟𝐮𝐥𝐥𝐲 equivariant tasks? We dive deep into how the equivariance imposed on a network affects its training dynamics 🔎"
 tags:
   - Demo
   - External
@@ -15,3 +15,6 @@ image:
 <script>window.location.replace("https://gram-blogposts.github.io/blog/2024/smpn/");</script>
 
 Si no se redirige automáticamente, haz clic en este enlace: <a href="https://gram-blogposts.github.io/blog/2024/smpn/">Ir al post externo</a>.
+
+
+

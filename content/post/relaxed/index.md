@@ -1,7 +1,7 @@
 ---
-title: "Applications of TopoX to Equivariant Topological Networks"
+title: "Effect of equivariance on training dynamics"
 date: "2024-09-01"
-summary: "🤔 Ever wondered why Relaxed Group Convolutions take the lead even in 𝐟𝐮𝐥𝐥𝐲 equivariant tasks? We dive deep into how the equivariance imposed on a network affects its training dynamics 🔎"
+summary: "🔍 Searching for the Best Framework for GDL+TDL Methods? Look no further! This blog post reveals how the TopoX suite boosts modularity and optimizes time and memory usage for methods like Equivariant Simplicial Complexes 🚀"
 tags:
   - Demo
   - External
