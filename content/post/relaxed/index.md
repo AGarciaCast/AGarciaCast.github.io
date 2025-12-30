@@ -1,5 +1,5 @@
 ---
-title: "Applications of TopoX to Equivariant Topological Networks"
+title: "Effect of equivariance on training dynamics"
 date: "2024-09-01"
 summary: "🔍 Searching for the Best Framework for GDL+TDL Methods? Look no further! This blog post reveals how the TopoX suite boosts modularity and optimizes time and memory usage for methods like Equivariant Simplicial Complexes 🚀"
 tags:
@@ -8,7 +8,6 @@ tags:
 draft: false
 image:
   placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 
 ---
 
