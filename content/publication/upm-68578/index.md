@@ -1,7 +1,7 @@
 ---
 title: 'Robustness of persistent homology: the Stability Theorem [in Spanish]'
 authors:
-- Alejandro García Castellanos
+- '<strong>Alejandro García-Castellanos</strong>'
 date: '2021-06-01'
 publishDate: '2023-12-14T10:35:40.999939Z'
 publication_types: ["thesis"]

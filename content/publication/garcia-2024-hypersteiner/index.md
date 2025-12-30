@@ -1,7 +1,7 @@
 ---
 title: 'HyperSteiner: Computing Heuristic Hyperbolic Steiner Minimal Trees'
 authors:
-- Alejandro García-Castellanos
+- '<strong>Alejandro García-Castellanos</strong>'
 - Aniss Aiman Medbouhi
 - Giovanni Luca Marchetti
 - Erik J. Bekkers
