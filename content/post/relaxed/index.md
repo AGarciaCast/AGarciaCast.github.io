@@ -1,6 +1,6 @@
 ---
 title: "Effect of equivariance on training dynamics"
-date: "2024-09-01"
+date: "2024-07-20"
 summary: "🤔 Ever wondered why Relaxed Group Convolutions take the lead even in 𝐟𝐮𝐥𝐥𝐲 equivariant tasks? We dive deep into how the equivariance imposed on a network affects its training dynamics 🔎"
 
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Applications of TopoX to Equivariant Topological Networks"
-date: "2024-09-01"
+date: "2024-06-30"
 summary: "🔍 Searching for the Best Framework for GDL+TDL Methods? Look no further! This blog post reveals how the TopoX suite boosts modularity and optimizes time and memory usage for methods like Equivariant Simplicial Complexes 🚀"
 tags:
   - Demo
