@@ -11,7 +11,7 @@
   {{- if not $first }}{{- print ", " -}}{{- end -}}
   {{- $matched := first 1 (where $authorPages "Title" $name) -}}
   {{- $lname := lower $name -}}
-  {{- $isMe := and (strings.Contains $lname "alejandro") (strings.Contains $lname "garci") -}}
+  {{- $isMe := and (strings.Contains $lname "alejandro") (strings.Contains $lname "garcia") -}}
   {{- if $matched -}}
     <a href="{{ $matched.RelPermalink }}">{{ if $isMe }}<strong>{{ $name }}</strong>{{ else }}{{ $name }}{{ end }}</a>
   {{- else -}}
