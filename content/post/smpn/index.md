@@ -11,10 +11,10 @@ image:
 
 ---
 
-<meta http-equiv="refresh" content="0;url=https://gram-blogposts.github.io/blog/2024/smpn/">
-<script>window.location.replace("https://gram-blogposts.github.io/blog/2024/smpn/");</script>
+<meta http-equiv="refresh" content="0;url=https://gram-blogposts.github.io/2024/blog/2024/smpn/">
+<script>window.location.replace("https://gram-blogposts.github.io/2024/blog/2024/smpn/");</script>
 
-Si no se redirige automáticamente, haz clic en este enlace: <a href="https://gram-blogposts.github.io/blog/2024/smpn/">Ir al post externo</a>.
+Si no se redirige automáticamente, haz clic en este enlace: <a href="https://gram-blogposts.github.io/2024/blog/2024/smpn/">Ir al post externo</a>.
 
 
 

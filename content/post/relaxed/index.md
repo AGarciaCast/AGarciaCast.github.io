@@ -12,10 +12,10 @@ image:
 
 ---
 
-<meta http-equiv="refresh" content="0;url=https://gram-blogposts.github.io/blog/2024/relaxed-equivariance/">
-<script>window.location.replace("https://gram-blogposts.github.io/blog/2024/relaxed-equivariance/");</script>
+<meta http-equiv="refresh" content="0;url=https://gram-blogposts.github.io/2024/blog/2024/relaxed-equivariance/">
+<script>window.location.replace("https://gram-blogposts.github.io/2024/blog/2024/relaxed-equivariance/");</script>
 
-Si no se redirige automáticamente, haz clic en este enlace: <a href="https://gram-blogposts.github.io/blog/2024/relaxed-equivariance/">Ir al post externo</a>.
+Si no se redirige automáticamente, haz clic en este enlace: <a href="https://gram-blogposts.github.io/2024/blog/2024/relaxed-equivariance/">Ir al post externo</a>.
 
 
 
