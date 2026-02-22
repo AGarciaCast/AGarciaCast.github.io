@@ -81,5 +81,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning.
+I am a PhD candidate at University of Amsterdam, focusing on applying topology, algebra, and geometry in machine learning for enhanced human-AI collaboration.
 {style="text-align: justify;"}
