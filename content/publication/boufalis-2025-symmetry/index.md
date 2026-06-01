@@ -33,7 +33,7 @@ url_code: 'https://github.com/odyboufalaki/Symmetry-Aware-Graph-Metanetwork-Auto
 url_dataset: ''
 url_poster: '19-BoufalisPoster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: '19_caballero_slides.pdf'
 url_source: ''
 url_video: ''
 

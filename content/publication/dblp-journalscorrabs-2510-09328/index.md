@@ -29,7 +29,7 @@ abstract: We study the problem of constructing Steiner Minimal Trees (SMTs) in h
 url_pdf: 'https://arxiv.org/pdf/2510.09328'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'posterAISTATS.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
