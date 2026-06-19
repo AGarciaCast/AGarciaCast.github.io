@@ -27,7 +27,7 @@ url_code: 'https://github.com/AGarciaCast/TopoRobRelTrans'
 url_dataset: ''
 url_poster: 'poster_Unireps.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'Topology.pdf'
 url_source: ''
 url_video: ''
 
